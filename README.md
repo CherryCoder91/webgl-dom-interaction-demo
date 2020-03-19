@@ -11,3 +11,7 @@ Simply open index.html in a browser that supports WEBGL and drag drop the shapes
 # Why?
 
 Back in 2016 I needed to look into whether a WEBGL using a canvas as a viewport could be influenced by DOM interactions, especially dragging items from the DOM. Therefore I did a quick spike to illustrate it was possible.
+
+# UI Screenshot
+
+![Image of App](documentation/ui-snippet.png)
